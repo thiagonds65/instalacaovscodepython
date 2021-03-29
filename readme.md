@@ -9,7 +9,7 @@ Feito isso, pode-se selecionar *Download* e, em seguida, *Windows*, caso o usuá
 <img src="images/python2_cropped.jpeg" width="800">
 
 Após o *download* do instalador, deve-se executar o programa. Antes de selecionar *Install Now*, verifique se *Add Python 3.9 to PATH* na parte inferior da janela está marcado, como visto a seguir.
-<img src=images/python5_cropped.jpeg">
+<img src="images/python5_cropped.jpeg">
 
 Em seguida, é possível verificar a instalação sendo feita:
 <img src="images/python6_cropped.jpeg">
